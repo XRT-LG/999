@@ -1,0 +1,18 @@
+<html>
+<header>
+<style>
+body{margin:0xp; padding:0xp;  }
+.div1{width:100px; height:200px; border:.4px black inset; float:left;  }
+
+</style>
+
+</header>
+<body>
+
+<div class="div1"></div>
+
+
+
+</body>
+
+</html>
